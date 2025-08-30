@@ -92,8 +92,23 @@ h2 {
     background-color: transparent;
 }
 
+#services h2 {
+    color: var(--primary-color);
+}
+
 #services .card {
     margin-bottom: 1.5rem;
+}
+
+/* Events */
+
+#events h2 {
+    color: var(--primary-color);
+}
+
+#discount {
+    background-color: blue;
+    color: white;
 }
 
 /* Footer / Contact */
