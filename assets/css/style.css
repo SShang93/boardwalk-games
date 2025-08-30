@@ -38,7 +38,7 @@ h2 {
 }
 
 .section {
-    color: var(--primary-color);
+    color: var(--secondary-color);
     margin-top: 2rem;
     margin-bottom: 2rem;
 }
@@ -118,7 +118,7 @@ h2 {
     padding-bottom: 3rem;
 }
 
-#contact, h2 {
+#contact h2 {
     color: white;
 }
 
@@ -146,6 +146,9 @@ h2 {
     background-color: transparent;
 }
 
+#address {
+    color: var(--secondary-color);
+}
 /* games library */
 
 #new-games h2 {
